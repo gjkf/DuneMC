@@ -1,0 +1,61 @@
+{
+  "precipitation": "none",
+  "category": "desert",
+  "depth": 1,
+  "scale": 3,
+  "temperature": 2.0,
+  "temperature_modifier": "none",
+  "downfall": 0.5,
+  "effects": {
+    "fog_color": 4733471,
+    "foliage_color": 3679232,
+    "grass_color": 3679232,
+    "sky_color": 6575158,
+    "water_color": 0,
+    "water_fog_color": 0,
+    "grass_color_modifier": "none",
+    "particle": {
+      "probability": 0.005,
+      "options": {
+        "type": "dust",
+        "r": 0.28,
+        "g": 0.22,
+        "b": 0.12,
+        "scale": 1
+      }
+    }
+  },
+  "surface_builder": "dunemc:arrakis",
+  "carvers": {
+    "air": [
+      "minecraft:canyon",
+      "minecraft:cave",
+      "dunemc:basins"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "dunemc:pre_spice_mass"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+    ],
+  "starts": [
+
+  ],
+  "spawners": {
+
+  },
+  "player_spawn_friendly": true,
+  "creature_spawn_probability": 0,
+  "spawn_costs": {
+
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "dunemc:block/pre_spice_mass" }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "dunemc:block/arrakis_sandstone_top",
+    "bottom": "dunemc:block/arrakis_sandstone_bottom",
+    "side": "dunemc:block/arrakis_sandstone"
+  }
+}

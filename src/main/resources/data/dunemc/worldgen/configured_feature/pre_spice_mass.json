@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "state": {
+      "Name": "dunemc:pre_spice_mass",
+      "Properties": {
+        "lit": "false"
+      }
+    },
+    "size": 15,
+    "target": {
+      "predicate_type": "minecraft:random_block_match",
+      "block": "dunemc:arrakis_sandstone",
+      "probability": 0.5
+    }
+  }
+}

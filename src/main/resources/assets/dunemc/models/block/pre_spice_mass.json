@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dunemc:block/pre_spice_mass"
+  }
+}

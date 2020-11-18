@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:default",
+  "config": {
+    "top_material": {
+      "Name": "dunemc:arrakis_sand",
+      "Properties": {
+      }
+    },
+    "under_material": {
+      "Name": "dunemc:arrakis_sandstone",
+      "Properties": {
+        "lit": "0"
+      }
+    },
+    "underwater_material": {
+      "Name": "dunemc:arrakis_sandstone",
+      "Properties": {
+      }
+    }
+  }
+}

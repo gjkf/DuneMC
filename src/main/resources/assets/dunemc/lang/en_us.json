@@ -1,0 +1,18 @@
+{
+    "itemGroup.dunemc.general": "DuneMC",
+    "item.dunemc.spice": "Spice",
+    "item.dunemc.sandworm_tooth": "Sandworm tooth",
+    "item.dunemc.sandworm_tooth.tooltip": "The great Shai-Hulud in an object",
+    "item.dunemc.pre_spice_mass_item": "Pre Spice Mass",
+    "block.dunemc.pre_spice_mass": "Pre Spice Mass",
+    "block.dunemc.arrakis_sand": "Arrakis Sand",
+    "block.dunemc.arrakis_sandstone": "Arrakis Sandstone",
+    "item.dunemc.stillsuit_helmet": "Stillsuit Helmet",
+    "item.dunemc.stillsuit_chestplate": "Stillsuit Chestplate",
+    "item.dunemc.stillsuit_leggins": "Stillsuit Leggins",
+    "item.dunemc.stillsuit_boots": "Stillsuit Boots",
+    "item.dunemc.advanced_stillsuit_helmet": "Advanced Stillsuit Helmet",
+    "item.dunemc.advanced_stillsuit_chestplate": "Advanced Stillsuit Chestplate",
+    "item.dunemc.advanced_stillsuit_leggins": "Advanced Stillsuit Leggins",
+    "item.dunemc.advanced_stillsuit_boots": "Advanced Stillsuit Boots"
+}
