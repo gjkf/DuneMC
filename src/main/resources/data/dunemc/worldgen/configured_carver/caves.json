@@ -1,0 +1,6 @@
+{
+  "type": "dunemc:cave",
+  "config": {
+    "probability": 0.4
+  }
+}

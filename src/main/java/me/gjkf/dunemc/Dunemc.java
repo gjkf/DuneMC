@@ -21,6 +21,7 @@ public class Dunemc implements ModInitializer {
     log.info("Beginning registration");
     Register.registerItems();
     Register.registerBlocks();
+    Register.registerWorld();
     log.info("DuneMC registration complete!");
   }
 }

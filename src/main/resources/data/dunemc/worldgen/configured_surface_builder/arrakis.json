@@ -9,7 +9,6 @@
     "under_material": {
       "Name": "dunemc:arrakis_sandstone",
       "Properties": {
-        "lit": "0"
       }
     },
     "underwater_material": {

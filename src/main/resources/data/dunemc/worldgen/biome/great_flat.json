@@ -28,25 +28,32 @@
   "surface_builder": "dunemc:arrakis",
   "carvers": {
     "air": [
-      "minecraft:canyon",
-      "minecraft:cave",
-      "dunemc:basins"
+      "dunemc:caves"
     ]
   },
   "features": [
-    [],
     [
-      "dunemc:pre_spice_mass"
     ],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    []
+    [
     ],
+    [
+    ],
+    [
+    ],
+    [
+    ],
+    [
+    ],
+    [
+      "dunemc:pre_spice_mass_ore"
+    ],
+    [
+    ],
+    [
+    ],
+    [
+    ]
+  ],
   "starts": [
 
   ],

@@ -9,7 +9,7 @@
       "type": "minecraft:multi_noise",
       "biomes": [
         {
-          "biome": "dunemc:basins",
+          "biome": "dunemc:basin",
           "parameters": {
             "altitude": 1,
             "weirdness": 1,
