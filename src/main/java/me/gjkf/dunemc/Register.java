@@ -92,10 +92,10 @@ public class Register {
               new OreFeatureConfig(
                   new RandomBlockMatchRuleTest(Register.ARRAKIS_SANDSTONE, 0.5f),
                   Register.PRE_SPICE_MASS.getDefaultState(),
-                  16))
-          .decorate(Decorator.RANGE.configure(new RangeDecoratorConfig(0, 40, 70)))
+                  5))
+          .decorate(Decorator.RANGE.configure(new RangeDecoratorConfig(50, 40, 70)))
           .spreadHorizontally()
-          .repeat(19);
+          .repeat(5);
 
   public static void registerItems() {
     Registry.register(

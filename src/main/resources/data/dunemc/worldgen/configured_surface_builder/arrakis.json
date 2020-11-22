@@ -7,12 +7,12 @@
       }
     },
     "under_material": {
-      "Name": "dunemc:arrakis_sandstone",
+      "Name": "dunemc:arrakis_sand",
       "Properties": {
       }
     },
     "underwater_material": {
-      "Name": "dunemc:arrakis_sandstone",
+      "Name": "dunemc:arrakis_sand",
       "Properties": {
       }
     }

@@ -1,11 +1,11 @@
 {
   "precipitation": "none",
   "category": "desert",
-  "depth": 1,
-  "scale": 3,
+  "depth": 3,
+  "scale": 0.15,
   "temperature": 2.0,
   "temperature_modifier": "none",
-  "downfall": 0.5,
+  "downfall": 0.9,
   "effects": {
     "fog_color": 4733471,
     "foliage_color": 3679232,

@@ -1,6 +1,6 @@
 {
   "name": "arrakis",
-  "ultrawarm": true,
+  "ultrawarm": false,
   "natural": true,
   "coordinate_scale": 1.0,
   "piglin_safe": false,
