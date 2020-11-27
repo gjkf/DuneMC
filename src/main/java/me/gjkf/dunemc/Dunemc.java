@@ -12,10 +12,6 @@ public class Dunemc implements ModInitializer {
 
   public static final Logger log = LogManager.getLogger("dunemc");
 
-  public static final ItemGroup ITEM_GROUP =
-      FabricItemGroupBuilder.build(
-          new Identifier(Register.MOD_ID, "general"), () -> new ItemStack(Register.SPICE));
-
   @Override
   public void onInitialize() {
     log.info("Beginning registration");
@@ -24,4 +20,5 @@ public class Dunemc implements ModInitializer {
     Register.registerWorld();
     log.info("DuneMC registration complete!");
   }
+
 }

@@ -4,8 +4,11 @@
   "package": "me.gjkf.dunemc.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "DefaultMixin"
   ],
   "client": [
+  ],
+  "server": [
   ],
   "injectors": {
     "defaultRequire": 1
